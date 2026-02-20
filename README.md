@@ -5,6 +5,9 @@ This is my example README.md repository
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
 - [TOOLS USED](#Tools-Used)
+- [FILES USED](#Files-Used)
+- [HOW TO RUN A PROGRAM](#How-to-run-a-program)
+- [ADDITIONAL INFORMATION](#Additional-Information)
 
 ## Project Title
 *"Hello World Sample - My First Repository"*
