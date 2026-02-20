@@ -1,4 +1,4 @@
-# _Hello-World_
+# HELLO - WORLD 
 This is my example README.md repository
 
 ## Table of Contents 
@@ -10,7 +10,7 @@ This is my example README.md repository
 - [ADDITIONAL INFORMATION](#Additional-Information)
 
 ## Project Title
-*"Hello World Sample - My First Repository"*
+### *"Hello World Sample - My First Repository"*
 
 ## Description 
 This was practice using GitHub and creating a sample repository. The description section is to help others understand the project. 
