@@ -1,8 +1,8 @@
-# Hello-World
+# Alt - Hello-World
 This is my example README.md repository
 
 ## Project Title
-"Hello World Sample - My First Repository"
+*"Hello World Sample - My First Repository"*
 
 ## Description 
 This was practice using GitHub and creating a sample repository. The description section is to help others understand the project. 
