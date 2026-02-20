@@ -1,5 +1,7 @@
-# Alt - Hello-World
+# _Hello-World_
 This is my example README.md repository
+
+## Table of Contents 
 
 ## Project Title
 *"Hello World Sample - My First Repository"*
