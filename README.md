@@ -2,6 +2,9 @@
 This is my example README.md repository
 
 ## Table of Contents 
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [TOOLS USED](#Tools-Used)
 
 ## Project Title
 *"Hello World Sample - My First Repository"*
